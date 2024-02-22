@@ -1,0 +1,6 @@
+@SimpleAuthNet8_HostAddress = http://localhost:5225
+
+GET {{SimpleAuthNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
