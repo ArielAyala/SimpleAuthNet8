@@ -9,7 +9,6 @@ This application provides a basic implementation of authentication in .NET 8, se
 
 ### Prerequisites
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Docker](https://www.docker.com/)
 
 ### Setup and Run
 1. Clone the repository:
