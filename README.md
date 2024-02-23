@@ -15,6 +15,7 @@ This application provides a basic implementation of authentication in .NET 8, se
    ```bash
    git clone https://github.com/ArielAyala/SimpleAuthNet8.git
    cd SimpleAuthNet8
+2. Open the solution using Visual Studio
 
 ### Run DB server in Docker (Alternative)
 You can use the [docker file](https://github.com/ArielAyala/SimpleAuthNet8/blob/master/Dockerfile)
